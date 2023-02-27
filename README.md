@@ -3,6 +3,8 @@ Kodluyoruz eğitimi kapsamında açtığım ilk repo
 
 Bu repo içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+Patika Profilim: https://app.patika.dev/edabasarslan
+
 
 ## Installation
 
